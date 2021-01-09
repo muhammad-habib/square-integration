@@ -1,0 +1,826 @@
+2021-01-05 14:10:29 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 14:10:29 - (sanic.root)[INFO]: Starting worker [25387]
+2021-01-05 14:10:49 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:10:49 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:10:49 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:11:23 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:11:34 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:11:46 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:12:02 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:12:13 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:37:31 - (sanic.root)[INFO]: Stopping worker [25387]
+2021-01-05 14:37:31 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 14:37:32 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 14:37:32 - (sanic.root)[INFO]: Starting worker [26682]
+2021-01-05 14:38:19 - (sanic.root)[INFO]: Stopping worker [26682]
+2021-01-05 14:38:19 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 14:39:14 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 14:39:14 - (sanic.root)[INFO]: Starting worker [26774]
+2021-01-05 14:39:23 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:39:23 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:39:23 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:40:31 - (sanic.root)[INFO]: Stopping worker [26774]
+2021-01-05 14:40:31 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 14:41:40 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 14:41:40 - (sanic.root)[INFO]: Starting worker [26976]
+2021-01-05 14:41:50 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 14:41:50 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 15:22:49 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 15:23:30 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 15:23:50 - (sanic.root)[INFO]: Stopping worker [26976]
+2021-01-05 15:23:50 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 15:23:50 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 15:23:50 - (sanic.root)[INFO]: Starting worker [29783]
+2021-01-05 15:23:59 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 15:24:22 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:09:39 - (sanic.root)[INFO]: Stopping worker [29783]
+2021-01-05 16:09:39 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:09:39 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:09:39 - (sanic.root)[INFO]: Starting worker [32292]
+2021-01-05 16:10:03 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:36:01 - (sanic.root)[INFO]: Stopping worker [32292]
+2021-01-05 16:36:01 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:36:23 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:36:23 - (sanic.root)[INFO]: Starting worker [1289]
+2021-01-05 16:36:41 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:36:42 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:36:42 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:37:07 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:37:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:39:34 - (sanic.root)[INFO]: Stopping worker [1289]
+2021-01-05 16:39:34 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:39:34 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:39:34 - (sanic.root)[INFO]: Starting worker [1792]
+2021-01-05 16:39:42 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:40:00 - (sanic.root)[INFO]: Stopping worker [1792]
+2021-01-05 16:40:00 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:40:02 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:40:02 - (sanic.root)[INFO]: Starting worker [1831]
+2021-01-05 16:40:10 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:40:12 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 27, in generate_token
+    print(request.get())
+AttributeError: 'Request' object has no attribute 'get'
+2021-01-05 16:40:17 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:40:25 - (sanic.root)[INFO]: Stopping worker [1831]
+2021-01-05 16:40:25 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:40:25 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:40:25 - (sanic.root)[INFO]: Starting worker [1858]
+2021-01-05 16:40:32 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:47:18 - (sanic.root)[INFO]: Stopping worker [1858]
+2021-01-05 16:47:18 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:47:18 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:47:18 - (sanic.root)[INFO]: Starting worker [2066]
+2021-01-05 16:47:28 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:50:24 - (sanic.root)[INFO]: Stopping worker [2066]
+2021-01-05 16:50:24 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:51:30 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:51:30 - (sanic.root)[INFO]: Starting worker [2552]
+2021-01-05 16:51:34 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 27, in generate_token
+    print(vars(request))
+TypeError: vars() argument must have __dict__ attribute
+2021-01-05 16:51:39 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:52:19 - (sanic.root)[INFO]: Stopping worker [2552]
+2021-01-05 16:52:19 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:53:51 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:53:51 - (sanic.root)[INFO]: Starting worker [2691]
+2021-01-05 16:54:00 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 16:55:19 - (sanic.root)[INFO]: Stopping worker [2691]
+2021-01-05 16:55:19 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 16:55:57 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 16:55:57 - (sanic.root)[INFO]: Starting worker [3048]
+2021-01-05 16:56:05 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:06:15 - (sanic.root)[INFO]: Stopping worker [3048]
+2021-01-05 17:06:15 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:06:15 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:06:15 - (sanic.root)[INFO]: Starting worker [3632]
+2021-01-05 17:06:25 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:06:41 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:15:42 - (sanic.root)[INFO]: Stopping worker [3632]
+2021-01-05 17:15:42 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:15:42 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:15:42 - (sanic.root)[INFO]: Starting worker [4443]
+2021-01-05 17:15:46 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 28, in generate_token
+    pprint(request.json())
+TypeError: 'dict' object is not callable
+2021-01-05 17:15:51 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:16:07 - (sanic.root)[INFO]: Stopping worker [4443]
+2021-01-05 17:16:07 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:16:08 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:16:08 - (sanic.root)[INFO]: Starting worker [4488]
+2021-01-05 17:16:10 - (sanic.root)[INFO]: Stopping worker [4488]
+2021-01-05 17:16:10 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:16:10 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:16:10 - (sanic.root)[INFO]: Starting worker [4511]
+2021-01-05 17:16:12 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 28, in generate_token
+    pprint(request.body())
+TypeError: 'bytes' object is not callable
+2021-01-05 17:16:17 - (sanic.root)[INFO]: Stopping worker [4511]
+2021-01-05 17:16:17 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:16:17 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:16:17 - (sanic.root)[INFO]: Starting worker [4587]
+2021-01-05 17:16:24 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:16:26 - (sanic.root)[INFO]: Stopping worker [4587]
+2021-01-05 17:16:26 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:16:26 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:16:26 - (sanic.root)[INFO]: Starting worker [4614]
+2021-01-05 17:16:34 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:16:42 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:16:51 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:17:46 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:17:53 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:18:02 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:23:07 - (sanic.root)[INFO]: Stopping worker [4614]
+2021-01-05 17:23:07 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:23:07 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:23:07 - (sanic.root)[INFO]: Starting worker [4951]
+2021-01-05 17:23:23 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:23:34 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 28, in generate_token
+    pprint(request.json.user_id)
+AttributeError: 'dict' object has no attribute 'user_id'
+2021-01-05 17:23:39 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:23:49 - (sanic.root)[INFO]: Stopping worker [4951]
+2021-01-05 17:23:49 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:23:49 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:23:49 - (sanic.root)[INFO]: Starting worker [4996]
+2021-01-05 17:23:52 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 28, in generate_token
+    pprint(request.json('user_id'))
+TypeError: 'dict' object is not callable
+2021-01-05 17:23:57 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:24:03 - (sanic.root)[INFO]: Stopping worker [4996]
+2021-01-05 17:24:03 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:24:03 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:24:03 - (sanic.root)[INFO]: Starting worker [5054]
+2021-01-05 17:24:06 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 28, in generate_token
+    pprint(request.get('user_id'))
+AttributeError: 'Request' object has no attribute 'get'
+2021-01-05 17:24:11 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:24:19 - (sanic.root)[INFO]: Stopping worker [5054]
+2021-01-05 17:24:19 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:24:19 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:24:19 - (sanic.root)[INFO]: Starting worker [5074]
+2021-01-05 17:24:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:27:48 - (sanic.root)[INFO]: Stopping worker [5074]
+2021-01-05 17:27:48 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:27:48 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:27:48 - (sanic.root)[INFO]: Starting worker [5266]
+2021-01-05 17:28:04 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:28:27 - (sanic.root)[INFO]: Stopping worker [5266]
+2021-01-05 17:28:27 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:28:27 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:28:27 - (sanic.root)[INFO]: Starting worker [5322]
+2021-01-05 17:28:30 - (sanic.root)[INFO]: Stopping worker [5322]
+2021-01-05 17:28:30 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:28:30 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:28:30 - (sanic.root)[INFO]: Starting worker [5343]
+2021-01-05 17:31:45 - (sanic.root)[INFO]: Stopping worker [5343]
+2021-01-05 17:31:45 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:31:45 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:31:45 - (sanic.root)[INFO]: Starting worker [5701]
+2021-01-05 17:32:44 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:33:06 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:33:32 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:33:32 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:33:32 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:34:39 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:35:29 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 17:48:22 - (sanic.root)[INFO]: Stopping worker [5701]
+2021-01-05 17:48:22 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 17:48:22 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 17:48:22 - (sanic.root)[INFO]: Starting worker [6230]
+2021-01-05 22:46:04 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:09:59 - (sanic.root)[INFO]: Stopping worker [6230]
+2021-01-05 23:09:59 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:09:59 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:09:59 - (sanic.root)[INFO]: Starting worker [13063]
+2021-01-05 23:10:12 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:10:12 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:10:12 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:13:27 - (sanic.root)[INFO]: Stopping worker [13063]
+2021-01-05 23:13:27 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:13:27 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:13:27 - (sanic.root)[INFO]: Starting worker [13640]
+2021-01-05 23:13:33 - (sanic.root)[INFO]: Stopping worker [13640]
+2021-01-05 23:13:33 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:13:33 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:13:33 - (sanic.root)[INFO]: Starting worker [13652]
+2021-01-05 23:14:31 - (sanic.root)[INFO]: Stopping worker [13652]
+2021-01-05 23:14:31 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:14:59 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:14:59 - (sanic.root)[INFO]: Starting worker [13747]
+2021-01-05 23:15:37 - (sanic.root)[INFO]: Stopping worker [13747]
+2021-01-05 23:15:37 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:16:09 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:16:09 - (sanic.root)[INFO]: Starting worker [13828]
+2021-01-05 23:16:27 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:16:27 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:17:46 - (sanic.root)[INFO]: Stopping worker [13828]
+2021-01-05 23:17:46 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:17:46 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:17:46 - (sanic.root)[INFO]: Starting worker [13967]
+2021-01-05 23:17:53 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:17:53 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:18:13 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:19:01 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:19:14 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:19:27 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:19:41 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:20:03 - (sanic.root)[INFO]: Stopping worker [13967]
+2021-01-05 23:20:03 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:20:03 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:20:03 - (sanic.root)[INFO]: Starting worker [14157]
+2021-01-05 23:21:02 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:21:15 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:21:45 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:42:39 - (sanic.root)[INFO]: Stopping worker [14157]
+2021-01-05 23:42:39 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:45:45 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:45:45 - (sanic.root)[INFO]: Starting worker [16046]
+2021-01-05 23:45:49 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+TypeError: generate_token() got an unexpected keyword argument 'payload'
+2021-01-05 23:45:54 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:47:01 - (sanic.root)[INFO]: Stopping worker [16046]
+2021-01-05 23:47:01 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:47:16 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:47:16 - (sanic.root)[INFO]: Starting worker [16137]
+2021-01-05 23:47:25 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:47:53 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:48:14 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:52:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:52:44 - (sanic.root)[INFO]: Stopping worker [16137]
+2021-01-05 23:52:44 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:52:44 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:52:44 - (sanic.root)[INFO]: Starting worker [16660]
+2021-01-05 23:52:51 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:53:00 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+TypeError: generate_token() got an unexpected keyword argument 'payload'
+2021-01-05 23:53:05 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:53:25 - (sanic.root)[INFO]: Stopping worker [16660]
+2021-01-05 23:53:25 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:53:25 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:53:25 - (sanic.root)[INFO]: Starting worker [16688]
+2021-01-05 23:54:24 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+TypeError: generate_token() got an unexpected keyword argument 'payload'
+2021-01-05 23:54:25 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+TypeError: generate_token() got an unexpected keyword argument 'payload'
+2021-01-05 23:54:26 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+TypeError: generate_token() got an unexpected keyword argument 'payload'
+2021-01-05 23:54:31 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:54:44 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+TypeError: generate_token() got an unexpected keyword argument 'payload'
+2021-01-05 23:54:49 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:57:53 - (sanic.root)[INFO]: Stopping worker [16688]
+2021-01-05 23:57:53 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:58:38 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:58:38 - (sanic.root)[INFO]: Starting worker [17061]
+2021-01-05 23:58:48 - (sanic.root)[INFO]: Stopping worker [17061]
+2021-01-05 23:58:48 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:58:48 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:58:48 - (sanic.root)[INFO]: Starting worker [17073]
+2021-01-05 23:58:57 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-05 23:59:09 - (sanic.root)[INFO]: Stopping worker [17073]
+2021-01-05 23:59:09 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:59:09 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:59:09 - (sanic.root)[INFO]: Starting worker [17103]
+2021-01-05 23:59:13 - (sanic.root)[INFO]: Stopping worker [17103]
+2021-01-05 23:59:13 - (sanic.root)[INFO]: Server Stopped
+2021-01-05 23:59:13 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-05 23:59:13 - (sanic.root)[INFO]: Starting worker [17111]
+2021-01-05 23:59:21 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:00:33 - (sanic.root)[INFO]: Stopping worker [17111]
+2021-01-06 00:00:33 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:00:33 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:00:33 - (sanic.root)[INFO]: Starting worker [17195]
+2021-01-06 00:00:42 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:00:57 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 38, in generate_token
+    device_id = request.json['device_id']
+KeyError: 'device_id'
+2021-01-06 00:01:02 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:01:22 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 38, in generate_token
+    device_id = request.json['device_id']
+KeyError: 'device_id'
+2021-01-06 00:01:27 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:01:34 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:01:43 - (sanic.root)[INFO]: Stopping worker [17195]
+2021-01-06 00:01:43 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:01:44 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:01:44 - (sanic.root)[INFO]: Starting worker [17242]
+2021-01-06 00:02:01 - (sanic.root)[INFO]: Stopping worker [17242]
+2021-01-06 00:02:01 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:02:01 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:02:01 - (sanic.root)[INFO]: Starting worker [17257]
+2021-01-06 00:02:07 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://127.0.0.1:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 70, in temp_
+    response = await f(request, *args, **kwargs)
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/nana-matajer/matajir-auth/controllers/AuthController.py", line 38, in generate_token
+    device_id = request.json['device_id']
+KeyError: 'device_id'
+2021-01-06 00:02:12 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:02:18 - (sanic.root)[INFO]: Stopping worker [17257]
+2021-01-06 00:02:18 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:02:18 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:02:18 - (sanic.root)[INFO]: Starting worker [17277]
+2021-01-06 00:02:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:02:38 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:03:10 - (sanic.root)[INFO]: Stopping worker [17277]
+2021-01-06 00:03:10 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:04:36 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:04:36 - (sanic.root)[INFO]: Starting worker [17367]
+2021-01-06 00:04:50 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:04:52 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:04:52 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:05:15 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 907, in handle_request
+    response = handler(request, *args, **kwargs)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 60, in decorated_function
+    result = validate(request, query, body, path)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 38, in validate
+    payload = body(**request.json).dict()
+TypeError: ModelMetaclass object argument after ** must be a mapping, not NoneType
+2021-01-06 00:05:16 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:05:20 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:05:31 - (sanic.root)[INFO]: Stopping worker [17367]
+2021-01-06 00:05:31 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:05:31 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:05:31 - (sanic.root)[INFO]: Starting worker [17481]
+2021-01-06 00:05:48 - (sanic.root)[INFO]: Stopping worker [17481]
+2021-01-06 00:05:48 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:05:48 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:05:48 - (sanic.root)[INFO]: Starting worker [17491]
+2021-01-06 00:05:56 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:05:56 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:06:03 - (sanic.root)[INFO]: Stopping worker [17491]
+2021-01-06 00:06:03 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:06:03 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:06:03 - (sanic.root)[INFO]: Starting worker [17540]
+2021-01-06 00:06:10 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:06:10 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:06:34 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:06:34 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:06:43 - (sanic.root)[INFO]: Stopping worker [17540]
+2021-01-06 00:06:43 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:06:44 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:06:44 - (sanic.root)[INFO]: Starting worker [17592]
+2021-01-06 00:06:51 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:06:51 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:07:10 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:08:27 - (sanic.root)[INFO]: Stopping worker [17592]
+2021-01-06 00:08:27 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:08:28 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:08:28 - (sanic.root)[INFO]: Starting worker [18065]
+2021-01-06 00:08:37 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:08:37 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:08:37 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 907, in handle_request
+    response = handler(request, *args, **kwargs)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 60, in decorated_function
+    result = validate(request, query, body, path)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 38, in validate
+    payload = body(**request.json).dict()
+TypeError: ModelMetaclass object argument after ** must be a mapping, not NoneType
+2021-01-06 00:08:39 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8003/token/generate'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 907, in handle_request
+    response = handler(request, *args, **kwargs)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 60, in decorated_function
+    result = validate(request, query, body, path)
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic_pydantic/__init__.py", line 38, in validate
+    payload = body(**request.json).dict()
+TypeError: ModelMetaclass object argument after ** must be a mapping, not NoneType
+2021-01-06 00:08:44 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:09:17 - (sanic.root)[INFO]: Stopping worker [18065]
+2021-01-06 00:09:17 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:09:17 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:09:17 - (sanic.root)[INFO]: Starting worker [18716]
+2021-01-06 00:09:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:09:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:09:34 - (sanic.root)[INFO]: Stopping worker [18716]
+2021-01-06 00:09:34 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:09:34 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:09:34 - (sanic.root)[INFO]: Starting worker [18769]
+2021-01-06 00:09:41 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:09:41 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:09:44 - (sanic.root)[INFO]: Stopping worker [18769]
+2021-01-06 00:09:44 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:09:44 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:09:44 - (sanic.root)[INFO]: Starting worker [18794]
+2021-01-06 00:09:51 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:10:03 - (sanic.root)[INFO]: Stopping worker [18794]
+2021-01-06 00:10:03 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:10:04 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:10:04 - (sanic.root)[INFO]: Starting worker [18837]
+2021-01-06 00:10:10 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:10:43 - (sanic.root)[INFO]: Stopping worker [18837]
+2021-01-06 00:10:43 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:10:43 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:10:43 - (sanic.root)[INFO]: Starting worker [18889]
+2021-01-06 00:10:50 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:11:46 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:11:46 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:11:47 - (sanic.root)[INFO]: Stopping worker [18889]
+2021-01-06 00:11:47 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:11:48 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:11:48 - (sanic.root)[INFO]: Starting worker [18947]
+2021-01-06 00:11:53 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:11:53 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:11:58 - (sanic.root)[INFO]: Stopping worker [18947]
+2021-01-06 00:11:58 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:11:58 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:11:58 - (sanic.root)[INFO]: Starting worker [18985]
+2021-01-06 00:12:04 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:12:21 - (sanic.root)[INFO]: Stopping worker [18985]
+2021-01-06 00:12:21 - (sanic.root)[INFO]: Server Stopped
+2021-01-06 00:12:21 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-06 00:12:21 - (sanic.root)[INFO]: Starting worker [19030]
+2021-01-06 00:12:30 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:12:30 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:12:36 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:12:42 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-06 00:12:48 - (sanic.root)[INFO]: Stopping worker [19030]
+2021-01-06 00:12:48 - (sanic.root)[INFO]: Server Stopped
+2021-01-08 23:47:49 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-08 23:47:49 - (sanic.root)[INFO]: Starting worker [4650]
+2021-01-08 23:48:14 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-08 23:51:25 - (sanic.root)[INFO]: Stopping worker [4650]
+2021-01-08 23:51:25 - (sanic.root)[INFO]: Server Stopped
+2021-01-08 23:51:25 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-08 23:51:25 - (sanic.root)[INFO]: Starting worker [5600]
+2021-01-09 01:33:15 - (sanic.root)[INFO]: Stopping worker [5600]
+2021-01-09 01:33:15 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:36:45 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:36:45 - (sanic.root)[INFO]: Starting worker [12166]
+2021-01-09 01:37:39 - (sanic.root)[INFO]: Stopping worker [12166]
+2021-01-09 01:37:39 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:37:39 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:37:40 - (sanic.root)[INFO]: Starting worker [12181]
+2021-01-09 01:37:42 - (sanic.root)[INFO]: Stopping worker [12181]
+2021-01-09 01:37:42 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:37:43 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:37:43 - (sanic.root)[INFO]: Starting worker [12188]
+2021-01-09 01:38:01 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:38:01 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 01:38:01 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:38:09 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:38:09 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 01:38:09 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:38:39 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:38:57 - (sanic.root)[INFO]: Stopping worker [12188]
+2021-01-09 01:38:57 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:38:57 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:38:57 - (sanic.root)[INFO]: Starting worker [12276]
+2021-01-09 01:38:58 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:38:58 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 01:38:58 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:39:05 - (sanic.root)[INFO]: Stopping worker [12276]
+2021-01-09 01:39:05 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:39:06 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:39:06 - (sanic.root)[INFO]: Starting worker [12370]
+2021-01-09 01:39:06 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:39:06 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 01:39:06 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:39:11 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:39:11 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 01:39:11 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:39:33 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:39:52 - (sanic.root)[INFO]: Stopping worker [12370]
+2021-01-09 01:39:52 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:40:06 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:40:06 - (sanic.root)[INFO]: Starting worker [12436]
+2021-01-09 01:40:15 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:42:03 - (sanic.root)[INFO]: Stopping worker [12436]
+2021-01-09 01:42:03 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:42:10 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:42:10 - (sanic.root)[INFO]: Starting worker [12551]
+2021-01-09 01:42:24 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:42:55 - (sanic.root)[INFO]: Stopping worker [12551]
+2021-01-09 01:42:56 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:49:05 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:49:05 - (sanic.root)[INFO]: Starting worker [12723]
+2021-01-09 01:49:22 - (sanic.root)[INFO]: Stopping worker [12723]
+2021-01-09 01:49:22 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:49:22 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:49:22 - (sanic.root)[INFO]: Starting worker [12734]
+2021-01-09 01:49:27 - (sanic.root)[INFO]: Stopping worker [12734]
+2021-01-09 01:49:27 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 01:49:27 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 01:49:27 - (sanic.root)[INFO]: Starting worker [12743]
+2021-01-09 01:49:40 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:49:45 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:49:45 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 01:49:45 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:47:38 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 17:47:38 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 17:47:38 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:48:00 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8003
+2021-01-09 17:48:00 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8003): address already in use
+2021-01-09 17:48:00 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:48:12 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:48:12 - (sanic.root)[INFO]: Starting worker [22867]
+2021-01-09 17:48:30 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:48:36 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:48:36 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:48:36 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:48:50 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/square-integration/controllers/PaymentController.py", line 38, in list_payment
+    pos_client.list_payment()
+AttributeError: 'SquareService' object has no attribute 'list_payment'
+2021-01-09 17:48:55 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:49:28 - (sanic.root)[INFO]: Stopping worker [22867]
+2021-01-09 17:49:28 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:49:28 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:49:28 - (sanic.root)[INFO]: Starting worker [23018]
+2021-01-09 17:49:59 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:49:59 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:50:00 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/square-integration/controllers/PaymentController.py", line 38, in list_payment
+    pos_client.list_payments()
+  File "/home/habib/square-integration/services/pos/square/SquareService.py", line 27, in list_payments
+    return self.client.transactions.list_payments(location_id=SquareApp.LOCATION_ID)
+AttributeError: 'TransactionsApi' object has no attribute 'list_payments'
+2021-01-09 17:50:05 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:50:59 - (sanic.root)[INFO]: Stopping worker [23018]
+2021-01-09 17:50:59 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:50:59 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:50:59 - (sanic.root)[INFO]: Starting worker [23103]
+2021-01-09 17:51:24 - (sanic.root)[ERROR]: Invalid response object for url b'/payments/list_payment', Expected Type: HTTPResponse, Actual Type: <class 'NoneType'>
+2021-01-09 17:51:24 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 509, in write_response
+    response.output(
+AttributeError: 'NoneType' object has no attribute 'output'
+2021-01-09 17:51:24 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:52:11 - (sanic.root)[INFO]: Stopping worker [23103]
+2021-01-09 17:52:11 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:52:11 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:52:11 - (sanic.root)[INFO]: Starting worker [23163]
+2021-01-09 17:52:19 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:52:19 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:52:24 - (sanic.root)[ERROR]: Invalid response object for url b'/payments/list_payment', Expected Type: HTTPResponse, Actual Type: <class 'square.http.api_response.ApiResponse'>
+2021-01-09 17:52:24 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 509, in write_response
+    response.output(
+AttributeError: 'ApiResponse' object has no attribute 'output'
+2021-01-09 17:53:42 - (sanic.root)[INFO]: Stopping worker [23163]
+2021-01-09 17:53:42 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:53:42 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:53:42 - (sanic.root)[INFO]: Starting worker [23269]
+2021-01-09 17:53:56 - (sanic.root)[ERROR]: Invalid response object for url b'/payments/list_payment', Expected Type: HTTPResponse, Actual Type: <class 'dict'>
+2021-01-09 17:53:56 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 509, in write_response
+    response.output(
+AttributeError: 'dict' object has no attribute 'output'
+2021-01-09 17:53:57 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:54:43 - (sanic.root)[INFO]: Stopping worker [23269]
+2021-01-09 17:54:43 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:54:53 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:54:53 - (sanic.root)[INFO]: Starting worker [23330]
+2021-01-09 17:55:34 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:55:38 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:56:10 - (sanic.root)[INFO]: Stopping worker [23330]
+2021-01-09 17:56:10 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:56:10 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:56:10 - (sanic.root)[INFO]: Starting worker [23403]
+2021-01-09 17:56:18 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/square-integration/controllers/PaymentController.py", line 38, in list_payment
+    return json({'payments': pos_client.list_payments().body}, 200)
+  File "/home/habib/square-integration/services/pos/square/SquareService.py", line 27, in list_payments
+    return self.client.orders.list_orders(location_id=SquareApp.LOCATION_ID)
+AttributeError: 'OrdersApi' object has no attribute 'list_orders'
+2021-01-09 17:56:19 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:56:23 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:57:57 - (sanic.root)[INFO]: Stopping worker [23403]
+2021-01-09 17:57:57 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:57:57 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:57:57 - (sanic.root)[INFO]: Starting worker [23533]
+2021-01-09 17:58:11 - (sanic.root)[INFO]: Stopping worker [23533]
+2021-01-09 17:58:11 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:58:11 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:58:11 - (sanic.root)[INFO]: Starting worker [23558]
+2021-01-09 17:58:22 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:58:26 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:58:54 - (sanic.root)[INFO]: Stopping worker [23558]
+2021-01-09 17:58:54 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:58:55 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:58:55 - (sanic.root)[INFO]: Starting worker [23610]
+2021-01-09 17:59:17 - (sanic.root)[INFO]: Stopping worker [23610]
+2021-01-09 17:59:17 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:59:17 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:59:17 - (sanic.root)[INFO]: Starting worker [23630]
+2021-01-09 17:59:37 - (sanic.root)[INFO]: Stopping worker [23630]
+2021-01-09 17:59:37 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:59:37 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:59:37 - (sanic.root)[INFO]: Starting worker [23647]
+2021-01-09 18:01:56 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:01:56 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:02:30 - (sanic.root)[ERROR]: Exception occurred while handling uri: 'http://localhost:8004/payments/list_payment'
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/app.py", line 909, in handle_request
+    response = await response
+  File "/usr/lib/python3.6/asyncio/coroutines.py", line 110, in __next__
+    return self.gen.send(None)
+  File "/home/habib/square-integration/controllers/PaymentController.py", line 38, in list_payment
+    return json({'payments': pos_client.list_payments().body}, 200)
+AttributeError: 'SquareService' object has no attribute 'list_payments'
+2021-01-09 18:02:31 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:02:35 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:02:43 - (sanic.root)[INFO]: Stopping worker [23647]
+2021-01-09 18:02:43 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 18:02:44 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 18:02:44 - (sanic.root)[INFO]: Starting worker [23909]
+2021-01-09 18:02:54 - (sanic.root)[INFO]: Stopping worker [23909]
+2021-01-09 18:02:54 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 18:02:54 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 18:02:54 - (sanic.root)[INFO]: Starting worker [23925]
+2021-01-09 18:03:17 - (sanic.root)[INFO]: Stopping worker [23925]
+2021-01-09 18:03:17 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 18:03:17 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 18:03:17 - (sanic.root)[INFO]: Starting worker [23942]
+2021-01-09 18:03:27 - (sanic.root)[INFO]: Stopping worker [23942]
+2021-01-09 18:03:27 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 18:03:27 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 18:03:27 - (sanic.root)[INFO]: Starting worker [23956]
+2021-01-09 18:03:35 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:03:35 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:03:48 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 18:04:26 - (sanic.root)[INFO]: Stopping worker [23956]
+2021-01-09 18:04:26 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 18:04:26 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 18:04:26 - (sanic.root)[INFO]: Starting worker [24052]
+2021-01-09 18:04:44 - (sanic.root)[INFO]: Stopping worker [24052]
+2021-01-09 18:04:44 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 18:32:11 - (sanic.root)[INFO]: Stopping worker [12743]
+2021-01-09 16:52:36 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 16:52:36 - (sanic.root)[INFO]: Starting worker [8]
+2021-01-09 16:53:04 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 16:53:17 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
