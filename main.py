@@ -1,13 +1,13 @@
 from sanic import Sanic
 from config import logging
-from controllers import PaymentController
+from controllers import TransactionsController
 from sanic_openapi import swagger_blueprint
 
 from services.pos.PosFactory import PosFactory
 
 app = Sanic("auth", log_config=logging.Logging.CONF)
 app.blueprint(swagger_blueprint)
-app.blueprint(PaymentController.payment_controller)
+app.blueprint(TransactionsController.payment_controller)
 
 pos_client = PosFactory.get_pos_client('SQUARE')
 

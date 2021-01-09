@@ -3,10 +3,10 @@ from sanic import Blueprint
 
 from services.pos.PosFactory import PosFactory
 
-payment_controller = Blueprint('payment', url_prefix='/payments')
+transactions_controller = Blueprint('Transactions', url_prefix='/')
 pos_client = PosFactory.get_pos_client('SQUARE')
 
 
-@payment_controller.route('/list_payment', ['GET'])
+@transactions_controller.route('/list_transactions', ['GET'])
 async def list_transactions(request):
-    return json({'payments': pos_client.list_transactions().body}, 200)
+    return json(pos_client.list_transactions().body, 200)

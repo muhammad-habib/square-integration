@@ -824,3 +824,37 @@ AttributeError: 'SquareService' object has no attribute 'list_payments'
 2021-01-09 16:52:36 - (sanic.root)[INFO]: Starting worker [8]
 2021-01-09 16:53:04 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
 2021-01-09 16:53:17 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:00:46 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:00:46 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:01:01 - (sanic.root)[INFO]: Stopping worker [8]
+2021-01-09 17:01:01 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:01:01 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:01:01 - (sanic.root)[INFO]: Starting worker [15]
+2021-01-09 17:01:07 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:01:07 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:01:14 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:02:00 - (sanic.root)[INFO]: Stopping worker [15]
+2021-01-09 17:02:00 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:02:00 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:02:00 - (sanic.root)[INFO]: Starting worker [22]
+2021-01-09 17:02:08 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:02:11 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:02:42 - (sanic.root)[INFO]: Stopping worker [22]
+2021-01-09 17:02:42 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:02:42 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:02:42 - (sanic.root)[INFO]: Starting worker [29]
+2021-01-09 17:03:01 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:03:06 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:03:22 - (sanic.root)[INFO]: Stopping worker [29]
+2021-01-09 17:03:22 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:03:23 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:03:23 - (sanic.root)[INFO]: Starting worker [36]
+2021-01-09 17:03:33 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:03:33 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:03:33 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:05:49 - (sanic.root)[INFO]: Stopping worker [36]
+2021-01-09 17:05:49 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:05:49 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:05:49 - (sanic.root)[INFO]: Starting worker [43]
+2021-01-09 17:06:16 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:06:21 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
