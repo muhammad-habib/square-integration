@@ -858,3 +858,27 @@ AttributeError: 'SquareService' object has no attribute 'list_payments'
 2021-01-09 17:05:49 - (sanic.root)[INFO]: Starting worker [43]
 2021-01-09 17:06:16 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
 2021-01-09 17:06:21 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:07:24 - (sanic.root)[INFO]: Stopping worker [43]
+2021-01-09 17:07:24 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:07:24 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:07:24 - (sanic.root)[INFO]: Starting worker [50]
+2021-01-09 19:07:27 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 19:07:27 - (sanic.root)[ERROR]: Unable to start server
+Traceback (most recent call last):
+  File "/home/habib/nana-matajer/matajir-auth/auth/lib/python3.6/site-packages/sanic/server.py", line 891, in serve
+    http_server = loop.run_until_complete(server_coroutine)
+  File "uvloop/loop.pyx", line 1456, in uvloop.loop.Loop.run_until_complete
+  File "uvloop/loop.pyx", line 1727, in create_server
+OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8004): address already in use
+2021-01-09 19:07:27 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:07:31 - (sanic.root)[INFO]: Stopping worker [50]
+2021-01-09 17:07:31 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 19:07:34 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 19:07:34 - (sanic.root)[INFO]: Starting worker [17663]
+2021-01-09 19:07:44 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 19:07:44 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 19:07:50 - (sanic.root)[INFO]: Stopping worker [17663]
+2021-01-09 19:07:50 - (sanic.root)[INFO]: Server Stopped
+2021-01-09 17:07:56 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-09 17:07:56 - (sanic.root)[INFO]: Starting worker [8]
+2021-01-09 17:08:08 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.

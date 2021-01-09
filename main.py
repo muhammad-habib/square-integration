@@ -7,7 +7,7 @@ from services.pos.PosFactory import PosFactory
 
 app = Sanic("auth", log_config=logging.Logging.CONF)
 app.blueprint(swagger_blueprint)
-app.blueprint(TransactionsController.payment_controller)
+app.blueprint(TransactionsController.transactions_controller)
 
 pos_client = PosFactory.get_pos_client('SQUARE')
 
