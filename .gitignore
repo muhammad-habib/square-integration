@@ -1,0 +1,8 @@
+.vscode
+*.pyc
+wyspp/REST/migrations/**
+.venv
+venv
+env/
+venv/*
+env/*

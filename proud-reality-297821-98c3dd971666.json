@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "proud-reality-297821",
+  "private_key_id": "98c3dd9716669f669af0e608d09560baaa46d805",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCwjG+8Lxtipy1N\nhKLMgshBs4QQQke1Knh0u/Aiua9wJgYmRB/mqhEnFUHPGovDhYbsLvHS5qd+f0bP\ncUBApAylPV8iudjpWPh04Djz8CLp9UqfpVvEKDiK2Pqt66Oh8Dhns92xpv1cIF51\nNzKMrCUWi8JmGUCFws0SzHG5q1sXZ37wkuRvQqR4xvlPLFkfO+DwLaaFIubHs8sO\nwTiUomPKu5WyJbz0zzI7uq0v5NeWv2fjmba6U6peqR5kdbs8PDVp5+nNunryt5EL\nXzEMWiTNFlFvU3MxYnMowjhX7nIRAD6hD5jzIdDaW3+S9qDaTxHYDcVoeR9Z0dTi\n+QeWN02PAgMBAAECggEABb1gb0B40MmZR3PlzGWpbQ67tGud493wR0X061bDcA9M\naTdochoFWhKZg8oxJmIo83TIl+VifKer/a0zkZEZItDOpFULyvUBiYs1+XhNKki3\nQbQhOky0dI8pVzjZ+7cmSPjStFE223qR7O2mebxUWFn4L/7nghxwiQlB3poblAnT\nZnL+AYSJw5RwNBVxFkRFtNQVOFF/Nm/1cdQ+1VjZnhXI50qCYGx8BFcy5CRzf43U\nYL1XTicVPYyCUp7JYUi3nu4UOAEbTXk6gA+JsQ6XevJbbxGSgOFidpxIdzUqOW8T\nzrlPWS4UWpPVKmOpC2c2wMp1ZLtS4h5sVrgBAPmTgQKBgQDzN0k7Se5uVbq0x+8S\no5L+3Wbissq8MEEdqEjjPwsBMDe4TSl+2naUXmpMJh+jOFzeaCYzSmOtizcWUX3z\n/T2HOwlOpfK5X8yyZED6BoiphY+sUfD0cmCUSDTpvtwDxW9XyHWB4w16DViOb7y+\nc8rvZOt1tA0isisGjw8R+hIkCQKBgQC51BL6TlrdsTOK9CNXqNVDBb7URinDwD0G\nQb3H2KxV6l3b0ssFXCpEDaDkUkKGOvs3T6uT/6unrwesi04gTxVR8zsk1mZHB/XE\nOZ3YHNpjYooLJrc2XH9i4fv0yWqwd03y9xDesYzJGtiuES84D1YO550+LhZ8e0eD\nDoGKzIk61wKBgHEn6Ldf50GIO0x+tLksR2iyY3rXikFSBgmhUQABRcJwx4vEwqiV\nRZQz9SqmlhOfVn3XYOZ+FrAYVDHbCkmpKaYwDl18EdizPI5G3IA26ABO9pBKs1tX\nl52FlrClrsFGa04hIqKim5OMgAYM8Hh/cQw+HNpvQalB0YjEqFNJ0ITZAoGBALDU\nIJb1VrwcshpoxPTWYNFdN0DR3045sRgyGMCB60P6OARFKxHXqRSHD3IU4N7QY1s3\nweKcaSCwipHjIZ3XA0evN7mPF1ZCOdjWpuAOXLYz/34rAi6FiGZ0+oft3ks7y/4G\nopP2yixYEpZZHeCvn0mhltyjiJw9x0fr1tNYXMGTAoGBAIvOtD/sghkYaIioM/Dy\nyCx9UxX3XStUnxexZeiwDsMI794fP0agh7evDtaoEk8UPThICsrfaZ2aK1yhDzN3\n87WAkAWHYgnCoUF0nHC+9iQJZE0zxGykCWBRrEIR5FWG1ZO2GnVIUK2Tq128+wV+\n3kBL6OOv7oRyUavkzUUh+E30\n-----END PRIVATE KEY-----\n",
+  "client_email": "wyspp-bucket@proud-reality-297821.iam.gserviceaccount.com",
+  "client_id": "115393022286463425077",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/wyspp-bucket%40proud-reality-297821.iam.gserviceaccount.com"
+}

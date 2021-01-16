@@ -1,0 +1,10 @@
+version: "3.4"
+
+services:
+  wyspp_backend:
+    build: .
+    command: python ./wyspp/manage.py runserver 0.0.0.0:80
+    volumes:
+      - .:/code
+    ports:
+      - "80:80"
