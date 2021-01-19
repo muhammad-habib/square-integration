@@ -632,7 +632,7 @@ class SignUPView(APIView):
 
             return Response(json_response, status=status.HTTP_201_CREATED)
         return Response({"error": serializer.errors}, status=status.HTTP_400_BAD_REQUEST)
- 
+
 class SocialLoginView(APIView):
     def post(self,request,type):
 
@@ -644,7 +644,7 @@ class SocialLoginView(APIView):
         elif type=='google' or type=='twitter':
             user, created = User.objects.get_or_create(
                 password=user.password, social_id=type, username=user.username ,created_at=user.date_joined,active=True,email=user.email)
-            
+
         if created :
             perefrence = str({'language': 'English', 'units': 'Metric'})
             prefernnce_data = {
@@ -656,7 +656,7 @@ class SocialLoginView(APIView):
             if pref_serializer.is_valid():
                 pref_serializer.save()
             else:
-                return Response(pref_serializer.errors, status=status.HTTP_400_BAD_REQUEST)  
+                return Response(pref_serializer.errors, status=status.HTTP_400_BAD_REQUEST)
         is_private = False
         need_password_change = False
         email_notify = False
@@ -822,7 +822,7 @@ class UserCountryView(APIView):
         else:
             return Response(data="Unauthorized", status=status.HTTP_401_UNAUTHORIZED)
         user = User.objects.get(id=user_id)
-        countries = Country.objects.all()
+        countries = Country.objects.order_by('name')
         user_states = UserState.objects.filter(user=user)
         for state in user_states:
             user_states_ids.append(state.state.id)
