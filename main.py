@@ -15,7 +15,6 @@ pos_client = PosFactory.get_pos_client('SQUARE')
 
 @app.route("/")
 async def test(request):
-    print(pos_client.list_orders())
     return json({"hello": "hello"})
 
 
