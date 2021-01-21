@@ -882,3 +882,9 @@ OSError: [Errno 98] error while attempting to bind on address ('0.0.0.0', 8004):
 2021-01-09 17:07:56 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
 2021-01-09 17:07:56 - (sanic.root)[INFO]: Starting worker [8]
 2021-01-09 17:08:08 - (sanic.root)[DEBUG]: KeepAlive Timeout. Closing connection.
+2021-01-09 17:09:53 - (sanic.root)[INFO]: Stopping worker [8]
+2021-01-09 17:09:53 - (sanic.root)[INFO]: Server Stopped
+2021-01-21 02:05:53 - (sanic.root)[INFO]: Goin' Fast @ http://0.0.0.0:8004
+2021-01-21 02:05:53 - (sanic.root)[INFO]: Starting worker [13549]
+2021-01-21 02:06:01 - (sanic.root)[INFO]: Stopping worker [13549]
+2021-01-21 02:06:01 - (sanic.root)[INFO]: Server Stopped

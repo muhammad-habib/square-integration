@@ -1,4 +1,5 @@
 from sanic import Sanic
+from sanic.response import json
 from config import logging
 from controllers import TransactionsController
 from sanic_openapi import swagger_blueprint
@@ -10,6 +11,12 @@ app.blueprint(swagger_blueprint)
 app.blueprint(TransactionsController.transactions_controller)
 
 pos_client = PosFactory.get_pos_client('SQUARE')
+
+
+@app.route("/")
+async def test(request):
+    print(pos_client.list_orders())
+    return json({"hello": "hello"})
 
 
 if __name__ == "__main__":
