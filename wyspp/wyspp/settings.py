@@ -132,10 +132,10 @@ APPEND_SLASH = False
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'wyspp-prod',
-        'USER': 'wyspp-prod',
-        'PASSWORD': 'WYSPP12345',
-        'HOST': '35.193.143.73',
+        'NAME': 'wyspp_test',
+        'USER': 'test_db_admin',
+        'PASSWORD': 'm33x2Hgig4auKte',
+        'HOST': '35.238.55.198',
         'PORT': '5432',
     }
 }

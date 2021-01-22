@@ -455,7 +455,8 @@ def login(request):
     user_hashed_password = User.objects.get(email=email).password
     if check_password(request.data.get('password'), user_hashed_password):
         with connection.cursor() as cursor:
-            cursor.execute('''SELECT id, name, username, email, dob, avatar, badge , is_private , need_password_change ,  active , email_notify,app_notify,push_notify , created_at , confirm_and_challenge_on_wysp ,wysp_become_news ,interaction_on_investigative_post , comment_on_missing_post,  comment_on_translate_post FROM "user" WHERE email = %s AND password = %s;''', [
+            cursor.execute('''SELECT id, name, username, email, dob, avatar, badge , is_private , need_password_change ,  active , email_notify,app_notify,push_notify , created_at , confirm_and_challenge_on_wysp ,wysp_become_news ,interaction_on_investigative_post , comment_on_missing_post,  comment_on_translate_post 
+            FROM "user" WHERE email = %s AND password = %s;''', [
                            email, user_hashed_password])
             row = cursor.fetchone()
             cursor.close()
@@ -910,6 +911,8 @@ class PostView(APIView):
     permission_classes = [permissions.AllowAny]
 
     def get(self, request, id):
+        password = make_password('123456', salt=None, hasher='default')
+        print(password)
         token = request.headers.get('authorization')
         user_id = None
         if token:
